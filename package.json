@@ -1,12 +1,17 @@
 {
-"name": "kammi-haxed",
-"version": "1.0.0",
-"main": "server.js",
-"scripts": {
-"start": "node server.js"
-},
-"dependencies": {
-"express": "^4.18.2"
+  "name": "kammihaxxed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "public": "^0.1.5",
+    "server.js": "^1.0.0"
+  }
 }
-}
-
